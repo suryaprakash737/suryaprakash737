@@ -10,7 +10,7 @@
 🌱 Learning advanced ML techniques, model interpretability, and cloud deployment  
 🤝 Looking to collaborate on AI/ML projects with business impact  
 💬 Ask me about Python, Machine Learning, and Data Science  
-📫 Reach me at: [suryaprakash737@gmail.com](mailto:suryaprakash737@gmail.com)  
+📫 Reach me at: [suryaprakashu55@gmail.com](mailto:suryaprakash737@gmail.com)  
 🔗 Portfolio: [suryaprakashuppalapati-portfolio.netlify.app](https://suryaprakashuppalapati-portfolio.netlify.app)
 
 ---
