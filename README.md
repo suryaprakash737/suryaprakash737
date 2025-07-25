@@ -31,9 +31,9 @@ Following a structured cybersecurity ML roadmap:
 - Machine Learning Essentials for Business
 
 ## 📫 Connect With Me
-**LinkedIn**: [linkedin.com/in/suryaprakashuppalapati](https://linkedin.com/in/suryaprakashuppalapati)  
-**Portfolio**: [suryaprakashuppalapati-portfolio.vercel.app](https://suryaprakashuppalapati-portfolio.vercel.app/)
-**Email**: suryaprakashu55@gmail.com
+**LinkedIn**: [linkedin.com/in/suryaprakashuppalapati](https://www.linkedin.com/in/suryaprakashuppalapati)  
+**Portfolio**: [suryaprakashuppalapati-portfolio.vercel.app](https://suryaprakashuppalapati-portfolio.vercel.app)  
+**Email**: [suryaprakashu55@gmail.com](mailto:suryaprakashu55@gmail.com)
 
 *Seeking ML Engineer/Data Scientist roles in cybersecurity and fraud detection*
 
