@@ -32,7 +32,7 @@ Following a structured cybersecurity ML roadmap:
 
 ## 📫 Connect With Me
 **LinkedIn**: [linkedin.com/in/suryaprakashuppalapati](https://linkedin.com/in/suryaprakashuppalapati)  
-**Portfolio**: [suryaprakashuppalapati-portfolio.netlify.app](https://suryaprakashuppalapati-portfolio.vercel.app/)  
+**Portfolio**: [suryaprakashuppalapati-portfolio.vercel.app](https://suryaprakashuppalapati-portfolio.vercel.app/)
 **Email**: suryaprakashu55@gmail.com
 
 *Seeking ML Engineer/Data Scientist roles in cybersecurity and fraud detection*
