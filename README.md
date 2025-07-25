@@ -1,41 +1,52 @@
-# 👋 Hi, I'm Suryaprakash Uppalapati
+## 👋 Hi there, I'm Suryaprakash Uppalapati
 
-🛡️ **Cybersecurity ML Engineer** | Recent MS CS Graduate | Building Intelligent Defense Systems
+<!--
+**suryaprakash737/suryaprakash737** is a ✨ *special* ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
-## 🎯 What I'm Building
-- **Network Security Analytics** - Real-time threat detection with 99.1% accuracy
-- **Fraud Detection Systems** - Ensemble methods for financial security  
-- **Anomaly Detection Models** - Isolation Forest for network intrusion detection
-
-## 🔧 Current Technical Stack
-**Security ML**: Random Forest, Isolation Forest, ensemble methods  
-**Languages**: Python, SQL  
-**Cloud**: AWS SageMaker (learning)  
-**Data Tools**: scikit-learn, pandas, NumPy, Jupyter  
-**Visualization**: Matplotlib, Tableau  
-
-## 📊 Featured Security Projects
-🔥 **[Network Security Analytics Platform](https://github.com/suryaprakash737/Network-Security-Analytics-Platform)** - 99.2% threat detection, 0.8% false positive rate  
-🎯 **Fraud Detection System** *(building)* - XGBoost ensemble for financial security  
-🌐 **Network Anomaly Detection** *(building)* - Isolation Forest for intrusion detection  
-
-## 🚀 Learning Journey
-Following a structured cybersecurity ML roadmap:
-- ✅ **Month 1-2**: Anomaly Detection (Isolation Forest, Statistical Methods)
-- 🔄 **Month 3-4**: Classification (Random Forest, XGBoost)  
-- 📅 **Month 5-6**: Time Series Analysis & Graph Analytics
-
-## 📜 Relevant Certifications
-- AWS Academy Graduate - Machine Learning Foundations
-- Understanding Basic SQL Syntax
-- Machine Learning Essentials for Business
-
-## 📫 Connect With Me
-**LinkedIn**: [linkedin.com/in/suryaprakashuppalapati](https://www.linkedin.com/in/suryaprakashuppalapati)  
-**Portfolio**: [suryaprakashuppalapati-portfolio.vercel.app](https://suryaprakashuppalapati-portfolio.vercel.app)  
-**Email**: [suryaprakashu55@gmail.com](mailto:suryaprakashu55@gmail.com)
-
-*Seeking ML Engineer/Data Scientist roles in cybersecurity and fraud detection*
+🎓 Graduate Student in Computer Science at George Mason University  
+💡 Aspiring Machine Learning Engineer & Data Scientist  
+📍 Currently working on deep learning models, AI use cases, and real-world ML systems  
+🌱 Learning advanced ML techniques, model interpretability, and cloud deployment  
+🤝 Looking to collaborate on AI/ML projects with business impact  
+💬 Ask me about Python, Machine Learning, and Data Science  
+📫 Reach me at: [suryaprakashu55@gmail.com](mailto:suryaprakash737@gmail.com)  
+🔗 Portfolio: [suryaprakashuppalapati-portfolio.netlify.app](https://suryaprakashuppalapati-portfolio.netlify.app)
 
 ---
-💡 *"Building ML systems where being wrong has real consequences"*
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-blue)](https://suryaprakashuppalapati-portfolio.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/suryaprakashuppalapati)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:suryaprakash737@gmail.com)
+
+---
+
+## 💻 Skills
+
+- **Languages**: Python, SQL, C, Java  
+- **ML & Data Tools**: Scikit-learn, PyTorch, XGBoost, Pandas, NumPy  
+- **Visualization**: Tableau, Matplotlib, Seaborn  
+- **Other**: Git, GitHub, Netlify, VS Code
+
+---
+
+## ✨ Featured Projects
+
+- 🔥 **Customer Churn Prediction** – Predicted churn 60 days in advance, saving $197K+ in simulated revenue  
+- 🤖 **PyTorch Deep Learning Models** – Trained CNN, MLP, and ReLU/Sigmoid models from scratch  
+- 📊 **E-commerce Review Analyzer** – Mined sentiment to forecast product success using early customer feedback  
+
+👉 View all projects on my [portfolio site](https://suryaprakashuppalapati-portfolio.netlify.app#projects)
+
+---
+
+## 📜 Certifications
+
+- Google Advanced Data Analytics – Google/Coursera  
+- Python for Data Science – IBM  
+- Machine Learning – Stanford (Andrew Ng)
+
+---
+
+🔗 *For a complete overview of my work and credentials, visit:*  
+🌐 [https://suryaprakashuppalapati-portfolio.netlify.app](https://suryaprakashuppalapati-portfolio.netlify.app)
