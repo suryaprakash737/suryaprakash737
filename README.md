@@ -1,4 +1,4 @@
-# 🛡️ Hi there, I'm Surya 👋
+# Hi there, I'm Surya 👋
 
 <div align="left">
   <a href="https://www.linkedin.com/in/suryaprakashuppalapati/">
