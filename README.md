@@ -1,52 +1,42 @@
-## 👋 Hi there, I'm Suryaprakash Uppalapati
+# 🛡️ Hi there, I'm Suryaprakash Uppalapati
 
-<!--
-**suryaprakash737/suryaprakash737** is a ✨ *special* ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/suryaprakashuppalapati/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail)](mailto:suryaprakashu55@gmail.com)
 
-🎓 Graduate Student in Computer Science at George Mason University  
-💡 Aspiring Machine Learning Engineer & Data Scientist  
-📍 Currently working on deep learning models, AI use cases, and real-world ML systems  
-🌱 Learning advanced ML techniques, model interpretability, and cloud deployment  
-🤝 Looking to collaborate on AI/ML projects with business impact  
-💬 Ask me about Python, Machine Learning, and Data Science  
-📫 Reach me at: [suryaprakashu55@gmail.com](mailto:suryaprakash737@gmail.com)  
-🔗 Portfolio: [suryaprakashuppalapati-portfolio.netlify.app](https://suryaprakashuppalapati-portfolio.netlify.app)
+I am a **Computer Science Graduate Student at George Mason University** and an aspiring **Machine Learning / MLOps Engineer**. I focus on the intersection of scalable machine learning systems, robust backend engineering, and AI pipeline security auditing. 
+
+- 🚀 **Currently Building:** Production-ready backend patterns for ML workflows and advanced data parsing pipelines.
+- 🛠️ **Core Focus:** Enhancing model interpretability, defending against prompt/context manipulation, and establishing cloud-native deployment pipelines.
+- 📈 **Goal:** Engineering secure, highly available AI infrastructure that solves concrete business security and data intelligence threats.
 
 ---
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-blue)](https://suryaprakashuppalapati-portfolio.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/suryaprakashuppalapati)
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:suryaprakash737@gmail.com)
+## 💻 Technical Engine Room
+
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Languages** | Python, SQL, Java, C |
+| **ML & Data Science** | PyTorch, Scikit-Learn, XGBoost, Pandas, NumPy |
+| **Backend & MLOps** | FastAPI, Docker, Uvicorn, REST APIs, Git |
+| **Databases & Vectors**| ChromaDB (Vector Store), PostgreSQL, SQLite |
+| **Data Visualization** | Tableau, Matplotlib, Seaborn |
 
 ---
 
-## 💻 Skills
+## 🚀 Key Engineering Showpieces
 
-- **Languages**: Python, SQL, C, Java  
-- **ML & Data Tools**: Scikit-learn, PyTorch, XGBoost, Pandas, NumPy  
-- **Visualization**: Tableau, Matplotlib, Seaborn  
-- **Other**: Git, GitHub, Netlify, VS Code
+### [Secure RAG Auditor](https://github.com/suryaprakash737/Secure_Rag_Auditor)
+An automated security intelligence layer designed to intercept, sanitize, and audit inputs and outputs within Retrieval-Augmented Generation (RAG) applications.
+* **Core Stack:** FastAPI, ChromaDB, Docker, Python
+* **Production Value:** Built to catch indirect prompt injections, handle vector database integrity constraints, and deliver structured telemetry logging suitable for enterprise monitoring platforms.
 
----
-
-## ✨ Featured Projects
-
-- 🔥 **Customer Churn Prediction** – Predicted churn 60 days in advance, saving $197K+ in simulated revenue  
-- 🤖 **PyTorch Deep Learning Models** – Trained CNN, MLP, and ReLU/Sigmoid models from scratch  
-- 📊 **E-commerce Review Analyzer** – Mined sentiment to forecast product success using early customer feedback  
-
-👉 View all projects on my [portfolio site](https://suryaprakashuppalapati-portfolio.netlify.app#projects)
+### Network Threat Detection Pipeline
+An end-to-end machine learning classifier engineered to ingest, parse, and analyze active network event logs to discover malicious security anomalies.
+* **Core Stack:** Scikit-Learn, Random Forest, Pandas
+* **Production Value:** Achieved a baseline threat classification accuracy of **99.1%**, emphasizing low-latency feature extraction and data optimization pipelines.
 
 ---
 
-## 📜 Certifications
-
-- Google Advanced Data Analytics – Google/Coursera  
-- Python for Data Science – IBM  
-- Machine Learning – Stanford (Andrew Ng)
-
----
-
-🔗 *For a complete overview of my work and credentials, visit:*  
-🌐 [https://suryaprakashuppalapati-portfolio.netlify.app](https://suryaprakashuppalapati-portfolio.netlify.app)
+### 🤝 Connect With Me
+* **LinkedIn:** [linkedin.com/in/suryaprakash-uppalapati](https://www.linkedin.com/in/suryaprakashuppalapati/)
+* **Email:** suryaprakashu55@gmail.com
