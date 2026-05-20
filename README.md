@@ -47,21 +47,21 @@ I engineer scalable backend architectures and data pipelines with a core special
 
 ---
 
-## 🚀 Flagship Engineering Repositories
+## Projects
 
-### 1. 🔍 [Secure RAG Auditor](https://github.com/suryaprakash737/Secure_Rag_Auditor)
+### 1. [Secure RAG Auditor](https://github.com/suryaprakash737/Secure_Rag_Auditor)
 An automated security intelligence and auditing layer engineered to intercept, sanitize, and evaluate data inside Retrieval-Augmented Generation (RAG) pipelines.
 * **Core Technologies:** FastAPI, ChromaDB, Docker, Python
 * **Production Value:** Built to eliminate common enterprise vulnerabilities like indirect prompt injection, manage stateful vector database locks cleanly under concurrent worker processes, and format structured JSON telemetry ready for SIEM (Splunk/Datadog) ingestion.
 
-### 2. 🛡️ Network Threat Detection Pipeline
+### 2. Network Threat Detection Pipeline
 An end-to-end classification system designed to parse active, high-volume network event logs to isolate and alert on malicious anomalies.
 * **Core Technologies:** Scikit-Learn, Random Forest, Pandas, Data Optimization Pipelines
 * **Production Value:** Achieved a **99.1% baseline classification accuracy** by focusing heavily on structured feature engineering and minimizing inference latency overhead.
 
 ---
 
-### 🤝 Let's Collaborate
+### Contact
 I am actively exploring opportunities and engineering challenges in the commercial tech space. If you are building or scaling production AI pipelines, let's connect!
 
 * **LinkedIn:** [linkedin.com/in/suryaprakash-uppalapati](https://www.linkedin.com/in/suryaprakashuppalapati/)
